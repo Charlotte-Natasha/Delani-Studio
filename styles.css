@@ -6,7 +6,16 @@ body {
   line-height: 1.6;
 }
 #showcase {
+  margin: 0;
+  padding: 0;
   background: url(images/Background/steps.jpg);
   width: 100%;
   height: 100vh;
+}
+.container {
+  max-width: fluid;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 3rem;
+  color: white;
 }
