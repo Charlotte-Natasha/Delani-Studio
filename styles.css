@@ -33,17 +33,6 @@ body {
 #contacts {
   background: url(images/Background/metal.jpg);
 }
-.boxes {
-  display: flex;
-  max-width: 100%;
-}
-.box {
-  padding: 1.5rem 2rem;
-}
-.boxes2 {
-  display: flex;
-  max-width: 100%;
-}
 .hidden {
   display: none;
 }

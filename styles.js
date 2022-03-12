@@ -1,0 +1,10 @@
+$(document).ready(function(){
+    $('.iconOne').click(function(){
+        $('.hidden').toggle();
+        $('.iconOne').toggle();
+    });
+    $('.hidden').click(function(){
+        $('.iconOne').toggle();
+        $('.hidden').toggle();
+    });
+});
