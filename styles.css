@@ -33,3 +33,9 @@ body {
 #contacts {
   background: url(images/Background/metal.jpg);
 }
+.boxes {
+  display: flex;
+}
+.box {
+  padding: 1.5rem 2rem;
+}
