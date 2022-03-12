@@ -39,3 +39,6 @@ body {
 .box {
   padding: 1.5rem 2rem;
 }
+.boxes2 {
+  display: flex;
+}
