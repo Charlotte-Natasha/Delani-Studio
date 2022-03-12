@@ -21,8 +21,8 @@ body {
   margin-bottom: 0;
 }
 
-.container {
-  max-width: fluid;
+.container-fluid {
+  max-width: 100%;
   text-align: center;
   margin: 0 auto;
   padding: 0 3rem;
@@ -35,10 +35,12 @@ body {
 }
 .boxes {
   display: flex;
+  max-width: 100%;
 }
 .box {
   padding: 1.5rem 2rem;
 }
 .boxes2 {
   display: flex;
+  max-width: 100%;
 }
