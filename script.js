@@ -1,8 +1,20 @@
 $(document).ready(function(){
-   $('#iCons').click(function(){
-       $('.hidden').toggle('')
+    $('.iconOne').click(function(){
+   $('.hidden').show();
    });
 });
+
+
+
+
+
+
+
+
+
+
+
+
 $(document).ready(function(){
     $('.col-md-3').snakeify({
         speed:250

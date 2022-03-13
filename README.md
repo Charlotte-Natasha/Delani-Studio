@@ -17,3 +17,7 @@ Java Query - Used to make the page responsive.
 ### Reference
 
 W3SCHOOLS YOUTUBE
+
+### License
+
+[MIT LICENSE](LICENSE.txt)
