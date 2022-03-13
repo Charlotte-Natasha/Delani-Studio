@@ -3,3 +3,8 @@ $(document).ready(function(){
        $('.hidden').toggle('')
    });
 });
+$(document).ready(function(){
+    $('.col-md-3').snakeify({
+        speed:250
+    })
+})

@@ -134,37 +134,37 @@
         <!-- Portfolio Images -->
         <h3 class="text-uppercase">Portfolio</h3>
         <div class="row mb-3">
-          <div class="col-md-3">
+          <div class="box col-md-3">
             <img src="images/Portfolio/work1.jpg" alt="" />
             <div class="overlay">Black Box</div>
           </div>
-          <div class="col-md-3">
+          <div class="box col-md-3">
             <img src="images/Portfolio/work2.jpg" alt="" />
             <div class="overlay">Ontario Security Logo</div>
           </div>
-          <div class="col-md-3">
+          <div class="box col-md-3">
             <img src="images/Portfolio/work3.jpg" alt="" />
             <div class="overlay">3D Design</div>
           </div>
-          <div class="col-md-3">
+          <div class="box col-md-3">
             <img src="images/Portfolio/work4.jpg" alt="" />
             <div class="overlay">Web Page</div>
           </div>
         </div>
         <div class="row mb-5">
-          <div class="col-md-3">
+          <div class="box col-md-3">
             <img src="images/Portfolio/work5.jpg" alt="" />
             <div class="overlay">Elena's Portfolio Design</div>
           </div>
-          <div class="col-md-3">
+          <div class="box col-md-3">
             <img src="images/Portfolio/work6.jpg" alt="" />
             <div class="overlay">Calculator</div>
           </div>
-          <div class="col-md-3">
+          <div class="box col-md-3">
             <img src="images/Portfolio/work8.jpg" alt="" />
             <div class="overlay">Burned Logo</div>
           </div>
-          <div class="col-md-3">
+          <div class="box col-md-3">
             <img src="images/Portfolio/work7.jpg" alt="" />
             <div class="overlay">Giraffe Restaurant Logo</div>
           </div>
@@ -216,6 +216,12 @@
       integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
       crossorigin="anonymous"
     ></script>
+    <script src="snake.min.js"></script>
+    <script>
+      $(".col-md-3").snakeify({
+        speed: 250,
+      });
+    </script>
     <script src="styles/js"></script>
   </body>
 </html>
