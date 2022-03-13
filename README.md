@@ -20,4 +20,4 @@ W3SCHOOLS YOUTUBE
 
 ### License
 
-[MIT LICENSE](LICENSE.txt)
+[MIT LICENSE](License.txt)

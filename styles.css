@@ -18,6 +18,10 @@ body {
 #showcase h1 {
   font-size: 3rem;
   margin-bottom: 0;
+  font-weight: bold;
+}
+h3 {
+  font-weight: bold;
 }
 
 .container-fluid {
