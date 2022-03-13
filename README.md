@@ -1,10 +1,10 @@
-# WEB-APP
+# DELANI STUDIO
 
-An application to find your Akan name depending on the day you were born.
+A studio where we meet all your needs and requirements. We try our best to bring your thoughts to life. Our approach ensures we create exceptional products.
 
 ## Description
 
-Akan names are names given to children from Ghana through a traditional naming system. The child's name is determined usually by the factor surrounding his or her birth i.e the manner, time, name, place or day they were born.
+We provide a high-level statement of work and ensure that your requirements are met. We ensure that we your ideas are brought to life and that we do our best.
 
 ## Styles Used
 
